@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pablo/Escritorio/IA/practica2_linux/Comportamientos_Jugador/jugador.cpp
+../Comportamientos_Jugador/jugador.hpp
+/home/pablo/Escritorio/IA/practica2_linux/Comportamientos_Jugador/jugador.hpp
+motorlib/util.h
+/home/pablo/Escritorio/IA/practica2_linux/Comportamientos_Jugador/motorlib/util.h
+iostream
+-
+cmath
+-
+set
+-
+stack
+-
+queue
+-
+utility
+-
+
+/home/pablo/Escritorio/IA/practica2_linux/Comportamientos_Jugador/jugador.hpp
+comportamientos/comportamiento.hpp
+/home/pablo/Escritorio/IA/practica2_linux/Comportamientos_Jugador/comportamientos/comportamiento.hpp
+list
+-
+
+include/comportamientos/comportamiento.hpp
+vector
+-
+
+include/motorlib/util.h
+cstdlib
+-
+
